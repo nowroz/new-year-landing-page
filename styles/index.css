@@ -121,3 +121,46 @@ header {
     color: red;
     margin-bottom: 16px;
 }
+
+/* party section */
+.party {
+    background-image:
+        linear-gradient(to right, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)),
+        url(../images/vector.png);
+    background-repeat: no-repeat;
+    border-radius: 16px;
+}
+
+.party-banner {
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    border: 1px solid blue;
+}
+
+.party-banner-content {
+    color: white;
+    max-width: 697px;
+}
+
+.party-banner-content > h1 {
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 11%;
+    max-width: 642px;
+    margin-bottom: 24px;
+}
+
+.party-banner-content > p {
+    margin-bottom: 48px;
+    color: rgb(255, 255, 255, 0.8);
+}
+
+.party-banner-content > button {
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-left: 32px;
+}
