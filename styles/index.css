@@ -166,6 +166,7 @@ url('../images/banner-image.png');
     color: white;
     border: none;
     margin-left: 32px;
+    cursor: pointer;
 }
 
 /* party-venue section */
