@@ -168,6 +168,7 @@ header {
 .party-venue {
     background-image: linear-gradient(rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0));
     background-repeat: no-repeat;
+    border-radius: 16px;
     padding: 100px 385px 110px;
 }
 
