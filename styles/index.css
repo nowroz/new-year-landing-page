@@ -284,3 +284,29 @@ url('../images/banner-image.png');
     margin: 0 40px 280px;
 }
 
+/* products section */
+.products > h3 {
+    color: red;
+    margin-bottom: 16px;
+}
+
+.products > h2 {
+    margin-bottom: 22px;
+}
+
+.products > p {
+    width: 896px;
+    margin-bottom: 48px;
+}
+
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.products-container img {
+    width: 422px;
+    border-radius: 16px;
+}
