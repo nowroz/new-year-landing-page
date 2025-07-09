@@ -15,3 +15,46 @@
   font-style: normal;
 }
 
+/* Shared fonts */
+.black-72px {
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.bold-48px {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.regular-18px {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.bold-20px {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.medium-24px {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.black-48px {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.regular-20px {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.medium-20px {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
