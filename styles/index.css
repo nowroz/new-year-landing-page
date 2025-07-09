@@ -70,6 +70,10 @@ body {
     border: 1px solid;
 }
 
+body section {
+    margin: 120px auto;
+}
+
 /* header styles */
 header {
     background-image:
