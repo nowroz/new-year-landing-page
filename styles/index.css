@@ -56,6 +56,12 @@
     font-weight: normal;
 }
 
+/* shared color */
+
+.color-1 {
+    color: #070211;
+}
+
 /* css reset */
 * {
     margin: 0;
@@ -78,7 +84,7 @@ body section {
 header {
     background-image:
         linear-gradient(rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)),
-        url(../images/Banner\ Image.png);
+        url(../images/banner-image.png);
     background-repeat: no-repeat;
     border-radius: 16px;
 }
@@ -92,10 +98,26 @@ header {
 .banner-content {
     color: white;
     text-align: center;
-    /* border: 2px solid green; */
 }
 
 .banner-content>h3 {
     font-size: 32px;
     font-weight: normal;
+}
+
+/* new-year-discount section */
+.new-year-discount {
+    text-align: center;
+}
+
+.new-year-discount > h1 {
+    font-size: 88px;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 48px;
+}
+
+.new-year-discount > h3 {
+    color: red;
+    margin-bottom: 16px;
 }
