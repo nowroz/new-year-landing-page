@@ -21,14 +21,14 @@
     font-weight: 900;
 }
 
+.black-48px {
+    font-size: 48px;
+    font-weight: 900;
+}
+
 .bold-48px {
     font-size: 48px;
     font-weight: bold;
-}
-
-.regular-18px {
-    font-size: 18px;
-    font-weight: normal;
 }
 
 .bold-20px {
@@ -41,9 +41,9 @@
     font-weight: 500;
 }
 
-.black-48px {
-    font-size: 48px;
-    font-weight: 900;
+.medium-20px {
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .regular-20px {
@@ -51,9 +51,9 @@
     font-weight: normal;
 }
 
-.medium-20px {
-    font-size: 20px;
-    font-weight: 500;
+.regular-18px {
+    font-size: 18px;
+    font-weight: normal;
 }
 
 /* body styles */
