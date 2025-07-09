@@ -56,5 +56,11 @@
     font-weight: 500;
 }
 
+/* body styles */
+body {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
 
 
