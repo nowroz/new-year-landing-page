@@ -126,6 +126,10 @@ url('../images/banner-image.png');
     margin-bottom: 16px;
 }
 
+.new-year-discount > h2 {
+    margin-bottom: 48px;
+}
+
 /* party section */
 .party {
     background-image:
@@ -309,4 +313,48 @@ url('../images/banner-image.png');
 .products-container img {
     width: 422px;
     border-radius: 16px;
+}
+
+/* subscribe section */
+.subscribe {
+    background-color: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding: 80px 212px;
+}
+
+.subscribe > img {
+    margin-bottom: 40px;
+}
+
+.subscribe > h3 {
+    margin-bottom: 22px;
+}
+
+.subscribe > p {
+    margin-bottom: 48px;
+}
+
+.subscribe > form {
+    display: flex;
+    justify-content: left;
+    width: 648px;
+    margin: 0 auto;
+}
+
+#subscribe-email {
+    padding: 25px 30px;
+    border: none;
+    border-radius: 50px 0 0 50px;
+    flex-grow: 1;
+}
+
+.subscribe > form > input[type="submit"] {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 0 50px 50px 0;
+    padding: 24px 56px;
+    cursor: pointer;
 }
